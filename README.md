@@ -12,7 +12,6 @@ I am a passionate software engineer focused on building robust, scalable, and ef
 * 💼 Leading architectural decisions and back-end development at **DRAKON Code**
 * 🏗️ Currently building a comprehensive management system for martial arts academies
 * 🌱 Deepening my knowledge in **React/Angular** to become a versatile Full-stack Developer
-* 🎯 Long-term goal: Relocating to Ireland to contribute to the European tech ecosystem
 
 ---
 
