@@ -8,7 +8,7 @@ I am a passionate software engineer focused on building robust, scalable, and ef
 
 ### 🚀 About Me
 
-* 🎓 Studying **Computer Engineering** (Expected Graduation: 2029)
+* 🎓 Studying **Computer Engineering** (Expected Graduation: 2028)
 * 💼 Leading architectural decisions and back-end development at **DRAKON Code**
 * 🏗️ Currently building a comprehensive management system for martial arts academies
 * 🌱 Deepening my knowledge in **React/Angular** to become a versatile Full-stack Developer
